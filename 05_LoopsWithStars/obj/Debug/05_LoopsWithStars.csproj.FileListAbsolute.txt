@@ -1,0 +1,8 @@
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe.config
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.pdb
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.AssemblyReference.cache
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.CoreCompileInputs.cache
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.exe
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.pdb
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.exe.config

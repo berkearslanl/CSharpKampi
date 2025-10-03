@@ -1,0 +1,8 @@
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\04_Loops\bin\Debug\04_Loops.exe.config
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\04_Loops\bin\Debug\04_Loops.exe
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\04_Loops\bin\Debug\04_Loops.pdb
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.csproj.AssemblyReference.cache
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.csproj.CoreCompileInputs.cache
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.exe
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.pdb
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.exe.config

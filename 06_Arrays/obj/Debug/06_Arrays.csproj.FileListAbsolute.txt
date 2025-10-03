@@ -1,0 +1,8 @@
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\06_Arrays\bin\Debug\06_Arrays.exe.config
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\06_Arrays\bin\Debug\06_Arrays.exe
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\06_Arrays\bin\Debug\06_Arrays.pdb
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.csproj.AssemblyReference.cache
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.exe
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.pdb
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.exe.config

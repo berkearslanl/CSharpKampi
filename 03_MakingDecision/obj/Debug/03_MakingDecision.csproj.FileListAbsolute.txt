@@ -1,0 +1,8 @@
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.exe.config
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.exe
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.pdb
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.AssemblyReference.cache
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.CoreCompileInputs.cache
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.exe
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.pdb
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.exe.config
