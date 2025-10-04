@@ -34,5 +34,5 @@
 🌱SQL veritabanında tablo oluşturduk. <br><br>
 🌱Oluşturulan tabloyu consol ekranında gösterdik.
 
-## 📝Proje 10 : SQL Server Crud İşlemleri
+## 📝Proje 10 : SQL Server CRUD (CREATE, READ, UPDATE, DELETE) İşlemleri
 🌱SQL veritabanındaki verileri kullanıcının isteğine göre listeleme, ekleme, silme ve güncelleme komutlarını kullanarak düzenledik.
