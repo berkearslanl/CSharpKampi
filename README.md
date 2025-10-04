@@ -1,4 +1,4 @@
-# ⚡CSarp Eğitim Kampı
+# ⚡C# Eğitim Kampı
 🌱Bu repoda Murat Yücedağ ile birlikte yürüttüğümüz C# Eğitim Kampında yaptığımız projelere yer verilmiştir.
 
 ## 📝Proje 1 : C#'a Giriş
