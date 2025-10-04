@@ -1,0 +1,8 @@
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.exe.config
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.exe
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.pdb
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.csproj.AssemblyReference.cache
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.csproj.CoreCompileInputs.cache
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.exe
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.pdb
+C:\Users\berke\OneDrive\Masaüstü\10. Dönem ASP.NET Murat Yücedağ\Youtube C# Eğitim Kampı\CSharpEgitimKampi\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.exe.config
