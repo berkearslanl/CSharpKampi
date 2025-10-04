@@ -25,6 +25,14 @@ Dizilere giriş yaptık ve bazı yaygın dizi metotlarını inceledik.
 Foreach döngüsünün ve listelerin kullanımını öğrendik.
 
 ## 📝Proje 8 : Metotlar
+🌱Void metotların kullanımını öğrendik. <br><br>
 🌱Geriye değer döndürmeyen parametreli ve parametresiz metotlar <br><br>
 🌱Geriye değer döndüren parametreli ve parametresiz metotlar <br><br>
 🌱Bu metotların kullanımıyla ilgili örnek uygulama geliştirdik.
+
+## 📝Proje 9 : SQL Veritabanı Kullanımı
+🌱SQL veritabanında tablo oluşturduk.
+🌱Oluşturulan tabloyu consol ekranında gösterdik.
+
+## 📝Proje 10 : SQL Server Crud İşlemleri
+SQL veritabanındaki verileri kullanıcının isteğine göre listeleme, ekleme, silme ve güncelleme komutlarını kullanarak düzenledik.
